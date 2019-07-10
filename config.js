@@ -25,7 +25,7 @@ module.exports = {
   ],
   author: {
     name: 'Brad Barrish',
-    photo: '/ou-logo.jpg',
+    photo: '/ou-logo.png',
     bio: '',
     contacts: {
       email: '#',
