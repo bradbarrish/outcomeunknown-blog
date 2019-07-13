@@ -15,7 +15,7 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'What\'s this about?',
+      label: 'What's this about?',
       path: '/pages/about'
     },
     {
@@ -24,13 +24,13 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Outcome Unknown',
+    name: 'Brad Barrish',
     photo: '/photo.jpg',
     bio: '',
     contacts: {
       email: 'hi@outcomeunknown.com',
       telegram: '@bradbarrish',
-      twitter: '@outcomeunknown',
+      twitter: '@outcomeunknown'
     }
   }
 };
