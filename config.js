@@ -15,7 +15,7 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'What's this about?',
+      label: 'What\'s this about?',
       path: '/pages/about'
     },
     {
