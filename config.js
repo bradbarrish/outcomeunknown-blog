@@ -19,8 +19,8 @@ module.exports = {
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: 'Subscribe',
+      path: '/pages/subscribe'
     }
   ],
   author: {
@@ -28,12 +28,9 @@ module.exports = {
     photo: '/photo.jpg',
     bio: '',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'hi@outcomeunknown.com',
+      telegram: '@bradbarrish',
+      twitter: '@outcomeunknown',
     }
   }
 };
