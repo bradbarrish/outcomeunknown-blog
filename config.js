@@ -29,8 +29,8 @@ module.exports = {
     bio: '',
     contacts: {
       email: 'hi@outcomeunknown.com',
-      telegram: '@bradbarrish',
-      twitter: '@outcomeunknown'
+      telegram: 'bradbarrish',
+      twitter: 'outcomeunknown'
     }
   }
 };
