@@ -6,8 +6,9 @@ draft: false
 slug: "/posts/outcome-unknown"
 category: ""
 tags:
-  - ""
-  - ""
+  - "Learning"
+  - "Math"
+  - "Food"
 description: "The debut Outcome Unknown newsletter."
 ---
 
