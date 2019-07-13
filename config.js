@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: '/',
   title: 'Outcome Unknown',
   subtitle: 'A real talk newsletter for parents, written by Brad Barrish',
-  copyright: ''
+  copyright: '© All rights reserved',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: '',
