@@ -5,17 +5,17 @@ module.exports = {
   pathPrefix: '/',
   title: 'Outcome Unknown',
   subtitle: 'A real talk newsletter for parents, written by Brad Barrish',
-  copyright: '© All rights reserved.',
+  copyright: ''
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: '',
   menu: [
     {
-      label: 'Articles',
+      label: 'Archives',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'What's this about?',
       path: '/pages/about'
     },
     {
